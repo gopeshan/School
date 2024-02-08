@@ -1,0 +1,63 @@
+Start testing: Nov 07 12:44 Eastern Standard Time
+----------------------------------------------------------
+1/4 Testing: case1
+1/4 Test: case1
+Command: "C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug/lab4.exe" "C:/Users/gopes/Downloads/lab4/lab4/test-cases/case1.txt"
+Directory: C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug
+"case1" start time: Nov 07 12:44 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"case1" end time: Nov 07 12:44 Eastern Standard Time
+"case1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: case2
+2/4 Test: case2
+Command: "C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug/lab4.exe" "C:/Users/gopes/Downloads/lab4/lab4/test-cases/case2.txt"
+Directory: C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug
+"case2" start time: Nov 07 12:44 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"case2" end time: Nov 07 12:44 Eastern Standard Time
+"case2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: case3
+3/4 Test: case3
+Command: "C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug/lab4.exe" "C:/Users/gopes/Downloads/lab4/lab4/test-cases/case3.txt"
+Directory: C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug
+"case3" start time: Nov 07 12:44 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"case3" end time: Nov 07 12:44 Eastern Standard Time
+"case3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: case4
+4/4 Test: case4
+Command: "C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug/lab4.exe" "C:/Users/gopes/Downloads/lab4/lab4/test-cases/case4.txt"
+Directory: C:/Users/gopes/Downloads/lab4/lab4/cmake-build-debug
+"case4" start time: Nov 07 12:44 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"case4" end time: Nov 07 12:44 Eastern Standard Time
+"case4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 12:44 Eastern Standard Time
