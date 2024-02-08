@@ -1,0 +1,6 @@
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/linked-stack.dir
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/array-stack.dir
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/demo-impl.dir
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gopes/Downloads/lab3/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
