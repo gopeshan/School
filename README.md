@@ -1,2 +1,2 @@
 # School
-This includes assignments and projects done for school. 
+This includes labs, assignments, and projects done for school. 
