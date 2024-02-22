@@ -1,0 +1,3 @@
+C:/Users/gopes/Downloads/Lab2_S001/Lab2_S001/cmake-build-debug/CMakeFiles/Lab2_S001.dir
+C:/Users/gopes/Downloads/Lab2_S001/Lab2_S001/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gopes/Downloads/Lab2_S001/Lab2_S001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
