@@ -49,3 +49,27 @@ data.plot(ax=ax.flatten()[:13], kind='box', subplots=True, sharex=False, sharey=
 fig.tight_layout()
 plt.show()
 
+#Question 6
+dataset = pd.read_csv('heart.csv')
+data = dataset.iloc[:, : -1]
+labels = dataset.iloc[:, -1]
+
+fig, ax = plt.subplots(ncols= 13, nrows= 13, figsize=(30,30))
+
+pd.plotting.scatter_matrix(data, ax = ax)
+
+fig.tight_layout()
+plt.show()
+
+#Question 5
+dataset = pd.read_csv('heart.csv')
+data = dataset.iloc[:, : -1]
+labels = dataset.iloc[:, -1]
+
+fig, ax = plt.subplots(ncols=4, nrows=4, figsize=(20,10))
+
+data.plot(ax=ax.flatten()[:13], kind='box', subplots=True, sharex=False, sharey=False)
+
+fig.tight_layout()
+plt.show()
+
