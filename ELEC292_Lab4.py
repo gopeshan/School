@@ -126,7 +126,7 @@ ax.legend(labels, fontsize=15)
 
 plt.show()
 
-# question 9
+# Question 9
 
 wine_data = pd.read_csv("winequalityN.csv")
 wine_data['quality'] = (wine_data['quality'] >= 8).astype(int)
